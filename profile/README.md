@@ -1,20 +1,29 @@
-## 👋 Olá, sejam todos bem-vindos.
+# 👋 Olá, sejam todos bem-vindos a PrivacyMap
 
-*O PrivacyMap foi criado para mostrar que privacidade e segurança podem ser alcançadas de maneira simples e descomplicada. Queremos conscientizar a todos sobre a importância da privacidade e estamos atuando em diversas frentes para mostrar alternativas viáveis para se ter mais privacidade e segurança online.*
+## Nossa Missão  
+**Capacitar pessoas e organizações a fortalecerem sua privacidade e segurança digital.**  
+Combinamos conhecimento técnico e prática para transformar como indivíduos e empresas enfrentam as ameaças do mundo digital.
 
-## Nossa missão
-Somos um movimento que acredita que todos possuem o direito à privacidade e cabe a cada um recuperá-la.
+## O que fazemos?
+### Para você  
+Fortaleça sua segurança digital através de: 
+- **Treinamentos aprofundados**:  
+  - [Android Privado](https://androidprivado.com.br/)  
+  - [PC Privado](https://pcprivado.privacymap.co/)  
+- **Map Academy**:  
+  - Participe de reuniões da comunidade em nosso grupo exclusivo no Telegram, com acesso a minicursos, conteúdos e materiais exclusivos sobre privacidade e segurança digital. [Inscreva-se!](https://lastlink.com/p/C01FC6071)
+- **Conteúdos gratuitos**:  
+  - Vídeos, tutoriais e dicas práticas sobre segurança digital em nosso [canal no YouTube](https://www.youtube.com/@PrivacyMap/).  
 
-Compartilhar deve ser uma escolha, n̶ã̶o̶ ̶u̶m̶a̶ ̶o̶b̶r̶i̶g̶a̶ç̶ã̶o̶.
-Privacidade não deve ser moeda de troca, e através das nossas ações queremos mostrar que é possível escolher o que compartilhar. Temos a missão de apresentar o mapa e de mostrar o caminho para a privacidade online.
+### Para Organizações  
+Ajudamos empresas a se manterem à frente das ameaças digitais:  
+- **Consultoria técnica em cibersegurança.**
+- **Pentests**: Avaliações detalhadas de segurança em softwares e aplicativos.  
+- **Programas de treinamento e conscientização** sobre privacidade e segurança digital para equipes.
+- E mais.
 
-## Nossos Princípios
+## 📝 Contato
+🌐 **Website**: [PrivacyMap](https://privacymap.co/)  
+🌐 **Nossos Links**: [PrivacyMap](https://links.privacymap.co/)
 
-- **Privacidade**: Não acreditamos em privacidade como moeda de troca. As ferramentas de privacidade devem estar disponíveis para todos. Queremos te mostrar o caminho para ter privacidade e segurança de maneira acessível e intuitiva.
-- **Liberdade**: Atuamos para maximizar a autonomia e a liberdade de escolha dos indivíduos. Queremos que as pessoas exerçam seu o direito de escolha. Queremos que as responsabilidades, os benefícios, riscos e consequências estejam sempre claros.
-- **Comunidade**: Construir junto em comunidade. Estamos sempre abertos para sugestões alinhadas com nossa missão.
-- **Open Source**: Participar sem pedir permissão. Apoiamos ambientes que promovam a descentralização e a colaboração aberta no desenvolvimento de softwares.
-
-## Acompanhe nossas redes sociais
-
-- [@PrivacyMap](https://links.privacymap.co/)
+💬 **Conecte-se com nossa comunidade!**
